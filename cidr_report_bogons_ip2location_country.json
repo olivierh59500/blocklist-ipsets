@@ -1,0 +1,62 @@
+[
+	{
+		"code": "AM",
+		"value": 256
+	},
+	{
+		"code": "BE",
+		"value": 128
+	},
+	{
+		"code": "COUNTRYLESS",
+		"value": 601195336
+	},
+	{
+		"code": "CY",
+		"value": 160
+	},
+	{
+		"code": "FR",
+		"value": 352
+	},
+	{
+		"code": "GB",
+		"value": 5376
+	},
+	{
+		"code": "IR",
+		"value": 3072
+	},
+	{
+		"code": "IT",
+		"value": 32
+	},
+	{
+		"code": "LB",
+		"value": 1024
+	},
+	{
+		"code": "NL",
+		"value": 2048
+	},
+	{
+		"code": "RO",
+		"value": 256
+	},
+	{
+		"code": "SA",
+		"value": 256
+	},
+	{
+		"code": "SE",
+		"value": 224
+	},
+	{
+		"code": "TR",
+		"value": 2816
+	},
+	{
+		"code": "UA",
+		"value": 1024
+	}
+]

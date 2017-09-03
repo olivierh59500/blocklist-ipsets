@@ -1,0 +1,18 @@
+[
+	{
+		"code": "ANYCAST",
+		"value": 2
+	},
+	{
+		"code": "DE",
+		"value": 28
+	},
+	{
+		"code": "RU",
+		"value": 7
+	},
+	{
+		"code": "US",
+		"value": 14
+	}
+]
