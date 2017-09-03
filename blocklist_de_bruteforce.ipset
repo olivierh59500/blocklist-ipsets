@@ -10,15 +10,15 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/bruteforcelogin.txt
-# Source File Date: Sun Sep  3 10:47:02 UTC 2017
+# Source File Date: Sun Sep  3 10:56:45 UTC 2017
 #
 # Category        : attacks
-# Version         : 42894
+# Version         : 42895
 #
-# This File Date  : Sun Sep  3 10:48:07 UTC 2017
+# This File Date  : Sun Sep  3 11:04:08 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 369 unique IPs
+# Entries         : 370 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -50,6 +50,7 @@
 39.108.135.247
 41.210.223.10
 41.216.167.122
+43.224.249.25
 43.251.17.62
 43.252.231.155
 45.64.75.111
