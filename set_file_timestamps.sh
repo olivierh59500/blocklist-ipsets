@@ -1343,7 +1343,7 @@
 [ -f 'ransomware_online.ipset' ] && /usr/bin/touch --date=@1504428486 'ransomware_online.ipset'
 [ -f 'ransomware_rw.ipset' ] && /usr/bin/touch --date=@1504428003 'ransomware_rw.ipset'
 [ -f 'ransomware_teslacrypt_ps.ipset' ] && /usr/bin/touch --date=@1498307102 'ransomware_teslacrypt_ps.ipset'
-[ -f 'ransomware_torrentlocker_c2.ipset' ] && /usr/bin/touch --date=@1504427702 'ransomware_torrentlocker_c2.ipset'
+[ -f 'ransomware_torrentlocker_c2.ipset' ] && /usr/bin/touch --date=@1504428302 'ransomware_torrentlocker_c2.ipset'
 [ -f 'ransomware_torrentlocker_ps.ipset' ] && /usr/bin/touch --date=@1498307101 'ransomware_torrentlocker_ps.ipset'
 [ -f 'ri_connect_proxies.ipset' ] && /usr/bin/touch --date=@1504391198 'ri_connect_proxies.ipset'
 [ -f 'ri_connect_proxies_1d.ipset' ] && /usr/bin/touch --date=@1504391198 'ri_connect_proxies_1d.ipset'
