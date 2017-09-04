@@ -10,15 +10,15 @@
 # Maintainer      : Bambenek Consulting
 # Maintainer URL  : http://osint.bambenekconsulting.com/feeds/
 # List source URL : http://osint.bambenekconsulting.com/feeds/simda-iplist.txt
-# Source File Date: Mon Sep  4 04:09:13 UTC 2017
+# Source File Date: Mon Sep  4 05:08:54 UTC 2017
 #
 # Category        : malware
-# Version         : 14230
+# Version         : 14231
 #
-# This File Date  : Mon Sep  4 04:12:15 UTC 2017
+# This File Date  : Mon Sep  4 05:16:26 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 134 unique IPs
+# Entries         : 130 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -76,11 +76,9 @@
 81.169.145.88
 81.169.145.92
 81.169.145.94
-81.169.145.105
 81.169.145.161
 81.177.139.153
 82.98.135.43
-82.100.220.50
 83.162.30.185
 84.42.137.42
 84.234.64.242
@@ -114,11 +112,10 @@
 103.224.212.187
 104.27.136.34
 104.27.137.34
-104.31.88.58
-104.31.89.58
 141.8.230.20
 141.105.126.87
 149.216.106.61
+163.172.86.124
 165.160.13.20
 165.160.15.20
 178.32.208.147
@@ -135,7 +132,6 @@
 185.53.179.8
 185.66.236.14
 185.140.231.12
-185.183.8.67
 188.40.28.163
 192.64.147.231
 194.9.94.85
