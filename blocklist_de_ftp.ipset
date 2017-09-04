@@ -10,15 +10,15 @@
 # Maintainer      : Blocklist.de
 # Maintainer URL  : https://www.blocklist.de/
 # List source URL : http://lists.blocklist.de/lists/ftp.txt
-# Source File Date: Mon Sep  4 15:56:29 UTC 2017
+# Source File Date: Mon Sep  4 16:10:34 UTC 2017
 #
 # Category        : attacks
-# Version         : 46973
+# Version         : 46974
 #
-# This File Date  : Mon Sep  4 16:00:14 UTC 2017
+# This File Date  : Mon Sep  4 16:12:06 UTC 2017
 # Update Frequency: 15 mins 
 # Aggregation     : none
-# Entries         : 537 unique IPs
+# Entries         : 547 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -57,6 +57,7 @@
 27.194.75.56
 27.223.1.142
 27.255.79.62
+36.57.229.233
 36.102.208.119
 36.149.173.168
 36.237.25.18
@@ -79,6 +80,7 @@
 43.254.40.135
 45.7.228.115
 46.206.1.85
+46.246.42.214
 49.5.7.110
 49.65.231.70
 49.67.138.205
@@ -178,6 +180,7 @@
 94.102.4.162
 95.0.215.251
 95.52.250.137
+101.17.170.193
 101.17.172.159
 101.37.75.60
 101.81.81.26
@@ -201,7 +204,6 @@
 106.87.95.192
 108.174.183.194
 109.133.125.200
-109.203.109.37
 110.17.3.117
 110.152.132.16
 110.166.195.246
@@ -495,7 +497,15 @@
 207.38.94.40
 207.226.141.36
 209.66.128.22
+209.66.129.236
+209.66.129.240
+209.66.129.241
+209.66.129.242
+209.66.129.243
 209.66.129.244
+209.66.129.245
+209.66.129.246
+209.66.129.247
 209.66.129.248
 209.66.129.249
 209.66.129.250
