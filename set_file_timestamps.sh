@@ -1394,7 +1394,7 @@
 [ -f 'tor_exits_30d.ipset' ] && /usr/bin/touch --date=@1504486938 'tor_exits_30d.ipset'
 [ -f 'tor_exits_7d.ipset' ] && /usr/bin/touch --date=@1504486938 'tor_exits_7d.ipset'
 [ -f 'trustedsec_atif.ipset' ] && /usr/bin/touch --date=@1497626788 'trustedsec_atif.ipset'
-[ -f 'turris_greylist.ipset' ] && /usr/bin/touch --date=@1503884446 'turris_greylist.ipset'
+[ -f 'turris_greylist.ipset' ] && /usr/bin/touch --date=@1504487310 'turris_greylist.ipset'
 [ -f 'urandomusto_dns.ipset' ] && /usr/bin/touch --date=@1504454927 'urandomusto_dns.ipset'
 [ -f 'urandomusto_ftp.ipset' ] && /usr/bin/touch --date=@1504458800 'urandomusto_ftp.ipset'
 [ -f 'urandomusto_http.ipset' ] && /usr/bin/touch --date=@1504458810 'urandomusto_http.ipset'
