@@ -20,12 +20,12 @@
 # Maintainer      : Abuse.ch
 # Maintainer URL  : https://ransomwaretracker.abuse.ch
 # List source URL : https://ransomwaretracker.abuse.ch/feeds/csv/
-# Source File Date: Mon Sep  4 19:08:10 UTC 2017
+# Source File Date: Mon Sep  4 19:16:09 UTC 2017
 #
 # Category        : malware
-# Version         : 9492
+# Version         : 9493
 #
-# This File Date  : Mon Sep  4 19:08:11 UTC 2017
+# This File Date  : Mon Sep  4 19:16:10 UTC 2017
 # Update Frequency: 5 mins 
 # Aggregation     : none
 # Entries         : 182 unique IPs
@@ -93,7 +93,6 @@
 85.183.254.23
 85.248.42.103
 86.64.239.30
-87.106.65.247
 87.118.114.57
 88.156.222.94
 89.42.216.118
@@ -136,7 +135,6 @@
 151.1.48.10
 155.94.213.235
 158.58.185.41
-162.213.255.19
 166.62.123.214
 173.201.180.62
 173.201.185.29
@@ -152,9 +150,11 @@
 185.64.219.5
 185.93.195.121
 185.95.23.134
+185.100.85.150
 185.106.210.42
 189.26.236.163
 190.105.238.43
+192.36.27.5
 193.109.184.81
 193.227.248.241
 194.173.175.16
