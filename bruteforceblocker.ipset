@@ -13,15 +13,15 @@
 # Maintainer      : danger.rulez.sk
 # Maintainer URL  : http://danger.rulez.sk/index.php/bruteforceblocker/
 # List source URL : http://danger.rulez.sk/projects/bruteforceblocker/blist.php
-# Source File Date: Mon Sep  4 19:48:24 UTC 2017
+# Source File Date: Mon Sep  4 22:49:33 UTC 2017
 #
 # Category        : attacks
-# Version         : 5472
+# Version         : 5473
 #
-# This File Date  : Mon Sep  4 19:52:26 UTC 2017
+# This File Date  : Mon Sep  4 22:52:08 UTC 2017
 # Update Frequency: 3 hours 
 # Aggregation     : none
-# Entries         : 1144 unique IPs
+# Entries         : 1143 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -155,7 +155,6 @@
 45.124.95.101
 45.249.109.104
 45.249.247.80
-46.13.152.209
 46.164.186.33
 46.183.217.165
 46.189.169.110
@@ -349,6 +348,7 @@
 82.211.49.197
 82.213.2.18
 82.228.240.199
+82.244.172.118
 82.246.170.196
 83.209.114.167
 83.220.169.203
@@ -778,7 +778,6 @@
 160.228.158.29
 161.18.127.230
 162.13.190.25
-162.144.126.184
 162.243.170.180
 162.246.49.218
 162.253.41.66
@@ -821,6 +820,7 @@
 172.104.142.69
 173.0.52.204
 173.16.233.5
+173.63.215.158
 173.212.238.63
 173.219.157.25
 173.242.124.151
@@ -867,7 +867,6 @@
 180.212.140.123
 180.250.131.137
 180.250.210.165
-181.48.240.42
 182.18.153.186
 182.36.201.180
 182.45.108.45
@@ -945,6 +944,7 @@
 190.85.6.90
 190.100.221.148
 190.110.88.164
+190.110.89.82
 190.110.91.121
 190.110.91.217
 190.144.5.234
@@ -1057,7 +1057,6 @@
 211.38.218.219
 211.43.204.46
 211.117.60.11
-211.140.199.244
 211.154.196.20
 211.168.232.5
 211.177.29.117
