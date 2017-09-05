@@ -9,15 +9,15 @@
 # Maintainer      : BitNodes
 # Maintainer URL  : https://getaddr.bitnodes.io/
 # List source URL : https://getaddr.bitnodes.io/api/v1/snapshots/latest/
-# Source File Date: Tue Sep  5 18:12:44 UTC 2017
+# Source File Date: Tue Sep  5 18:24:18 UTC 2017
 #
 # Category        : organizations
-# Version         : 74993
+# Version         : 74994
 #
-# This File Date  : Tue Sep  5 18:12:51 UTC 2017
+# This File Date  : Tue Sep  5 18:24:25 UTC 2017
 # Update Frequency: 10 mins 
 # Aggregation     : 30 days 
-# Entries         : 29984 unique IPs
+# Entries         : 29989 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -2134,6 +2134,7 @@
 37.99.98.117
 37.105.218.121
 37.110.8.75
+37.110.12.160
 37.110.130.53
 37.110.132.9
 37.112.86.157
@@ -7322,6 +7323,7 @@
 73.93.174.29
 73.94.32.108
 73.94.152.192
+73.96.94.209
 73.96.175.172
 73.97.16.155
 73.97.33.59
@@ -19807,6 +19809,7 @@
 112.87.147.84
 112.87.165.196
 112.87.168.151
+112.87.168.229
 112.87.168.242
 112.87.169.203
 112.87.170.118
@@ -24687,6 +24690,7 @@
 178.74.104.240
 178.74.104.242
 178.74.230.43
+178.75.110.193
 178.75.129.127
 178.75.131.14
 178.75.138.215
@@ -26656,6 +26660,7 @@
 189.110.163.48
 189.110.165.179
 189.114.87.128
+189.114.163.212
 189.114.165.7
 189.114.173.92
 189.115.77.177
