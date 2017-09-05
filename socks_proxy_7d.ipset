@@ -9,15 +9,15 @@
 # Maintainer      : Free Proxy List
 # Maintainer URL  : http://free-proxy-list.net/
 # List source URL : http://www.socks-proxy.net/
-# Source File Date: Tue Sep  5 05:22:01 UTC 2017
+# Source File Date: Tue Sep  5 05:32:02 UTC 2017
 #
 # Category        : anonymizers
-# Version         : 66689
+# Version         : 66690
 #
-# This File Date  : Tue Sep  5 05:24:09 UTC 2017
+# This File Date  : Tue Sep  5 05:32:13 UTC 2017
 # Update Frequency: 10 mins 
 # Aggregation     : 7 days 
-# Entries         : 2685 unique IPs
+# Entries         : 2679 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -1260,7 +1260,6 @@
 108.188.206.233
 108.189.217.147
 108.191.240.210
-108.208.153.119
 108.212.144.214
 108.213.220.161
 108.218.207.108
@@ -1299,7 +1298,6 @@
 113.119.37.225
 113.119.206.56
 113.119.206.197
-113.122.134.26
 113.128.24.78
 113.128.24.225
 113.128.24.230
@@ -1531,7 +1529,6 @@
 123.56.200.75
 123.56.216.175
 123.57.10.224
-123.59.173.0
 123.110.137.28
 123.170.64.194
 123.170.65.50
@@ -1894,7 +1891,6 @@
 182.44.194.50
 182.44.208.10
 182.44.208.76
-182.44.208.234
 182.44.209.211
 182.44.211.66
 182.44.220.129
@@ -1920,7 +1916,6 @@
 182.45.13.8
 182.45.13.42
 182.45.13.230
-182.45.14.180
 182.45.14.242
 182.45.15.20
 182.45.15.247
@@ -1966,7 +1961,6 @@
 185.12.94.57
 185.20.184.99
 185.50.49.20
-185.81.58.99
 185.81.157.153
 185.93.68.88
 185.103.211.43
