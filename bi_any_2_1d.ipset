@@ -9,12 +9,12 @@
 # Maintainer      : BadIPs.com
 # Maintainer URL  : https://www.badips.com/
 # List source URL : https://www.badips.com/get/list/any/2?age=1d
-# Source File Date: Tue Sep  5 00:52:37 UTC 2017
+# Source File Date: Tue Sep  5 01:25:10 UTC 2017
 #
 # Category        : attacks
-# Version         : 29181
+# Version         : 29182
 #
-# This File Date  : Tue Sep  5 00:52:37 UTC 2017
+# This File Date  : Tue Sep  5 01:25:10 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
 # Entries         : 225 unique IPs
@@ -39,7 +39,6 @@
 46.165.223.217
 46.182.106.190
 51.254.127.129
-58.59.68.91
 58.206.126.29
 61.188.189.7
 62.102.148.67
@@ -252,4 +251,5 @@
 221.214.208.226
 221.226.11.229
 222.52.76.50
+222.186.50.190
 222.254.76.38
