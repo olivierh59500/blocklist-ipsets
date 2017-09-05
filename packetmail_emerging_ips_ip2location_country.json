@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 1
+		"value": 3
 	},
 	{
 		"code": "DE",
@@ -37,11 +37,11 @@
 	},
 	{
 		"code": "ES",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "FR",
-		"value": 4
+		"value": 6
 	},
 	{
 		"code": "IE",
@@ -53,6 +53,10 @@
 	},
 	{
 		"code": "PL",
+		"value": 1
+	},
+	{
+		"code": "RO",
 		"value": 2
 	},
 	{
@@ -64,11 +68,7 @@
 		"value": 3
 	},
 	{
-		"code": "UA",
-		"value": 1
-	},
-	{
 		"code": "US",
-		"value": 25
+		"value": 27
 	}
 ]

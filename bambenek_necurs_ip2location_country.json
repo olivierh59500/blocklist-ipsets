@@ -1,14 +1,14 @@
 [
 	{
-		"code": "CN",
+		"code": "COUNTRYLESS",
+		"value": 13
+	},
+	{
+		"code": "KR",
 		"value": 1
 	},
 	{
-		"code": "COUNTRYLESS",
-		"value": 10
-	},
-	{
 		"code": "US",
-		"value": 7
+		"value": 2
 	}
 ]

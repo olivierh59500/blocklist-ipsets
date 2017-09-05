@@ -2,7 +2,7 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740797,
+		"ips": 34740989,
 		"common": 1
 	},
 	{
@@ -14,13 +14,13 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690110,
+		"ips": 762691390,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
-		"ips": 11724,
+		"ips": 11720,
 		"common": 1
 	},
 	{

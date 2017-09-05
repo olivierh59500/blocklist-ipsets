@@ -56,13 +56,13 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740797,
+		"ips": 34740989,
 		"common": 5
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
-		"ips": 138808079,
+		"ips": 139021294,
 		"common": 2
 	},
 	{

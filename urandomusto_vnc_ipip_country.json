@@ -5,15 +5,11 @@
 	},
 	{
 		"code": "CA",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "CN",
-		"value": 2
-	},
-	{
-		"code": "CO",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "ES",
@@ -24,20 +20,20 @@
 		"value": 1
 	},
 	{
-		"code": "IL",
-		"value": 2
+		"code": "HK",
+		"value": 1
 	},
 	{
-		"code": "MX",
+		"code": "ID",
+		"value": 1
+	},
+	{
+		"code": "KR",
 		"value": 1
 	},
 	{
 		"code": "NL",
-		"value": 3
-	},
-	{
-		"code": "RO",
-		"value": 3
+		"value": 5
 	},
 	{
 		"code": "SE",
@@ -45,6 +41,6 @@
 	},
 	{
 		"code": "US",
-		"value": 15
+		"value": 5
 	}
 ]

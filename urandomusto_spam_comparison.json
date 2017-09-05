@@ -2,19 +2,19 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740797,
+		"ips": 34740989,
 		"common": 1
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 26814,
+		"ips": 26751,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
-		"ips": 346601387,
+		"ips": 346600445,
 		"common": 1
 	}
 ]

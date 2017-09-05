@@ -8,12 +8,20 @@
 		"value": 41216
 	},
 	{
+		"code": "AU",
+		"value": 1536
+	},
+	{
 		"code": "BE",
 		"value": 10496
 	},
 	{
 		"code": "CH",
 		"value": 80640
+	},
+	{
+		"code": "CN",
+		"value": 256
 	},
 	{
 		"code": "CZ",
@@ -37,7 +45,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 103584
+		"value": 104096
 	},
 	{
 		"code": "GB",
@@ -65,7 +73,7 @@
 	},
 	{
 		"code": "JP",
-		"value": 2048
+		"value": 3584
 	},
 	{
 		"code": "KE",
@@ -82,6 +90,10 @@
 	{
 		"code": "MD",
 		"value": 256
+	},
+	{
+		"code": "MN",
+		"value": 1024
 	},
 	{
 		"code": "MU",
@@ -129,7 +141,7 @@
 	},
 	{
 		"code": "US",
-		"value": 37128
+		"value": 38664
 	},
 	{
 		"code": "ZA",

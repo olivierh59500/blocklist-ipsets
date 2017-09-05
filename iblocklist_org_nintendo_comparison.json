@@ -2,19 +2,19 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690110,
+		"ips": 762691390,
 		"common": 3891
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
-		"ips": 346601387,
+		"ips": 346600445,
 		"common": 280
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
-		"ips": 138808079,
+		"ips": 139021294,
 		"common": 224
 	},
 	{
@@ -26,7 +26,7 @@
 	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
-		"ips": 11724,
+		"ips": 11720,
 		"common": 2
 	},
 	{

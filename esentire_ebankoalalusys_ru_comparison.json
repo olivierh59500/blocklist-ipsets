@@ -6,18 +6,6 @@
 		"common": 90
 	},
 	{
-		"name": "blocklist_de",
-		"category": "attacks",
-		"ips": 56608,
-		"common": 1
-	},
-	{
-		"name": "blocklist_de_mail",
-		"category": "attacks",
-		"ips": 41608,
-		"common": 1
-	},
-	{
 		"name": "blueliv_crimeserver_online",
 		"category": "attacks",
 		"ips": 30542,
@@ -26,7 +14,7 @@
 	{
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601212360,
+		"ips": 601211592,
 		"common": 2
 	},
 	{
@@ -38,19 +26,19 @@
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 564119,
+		"ips": 570144,
 		"common": 3
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312232,
+		"ips": 312233,
 		"common": 1
 	},
 	{
 		"name": "dronebl_ddos_drones",
 		"category": "attacks",
-		"ips": 367035,
+		"ips": 367030,
 		"common": 1
 	},
 	{
@@ -192,39 +180,39 @@
 		"common": 129
 	},
 	{
-		"name": "firehol_level2",
-		"category": "attacks",
-		"ips": 64578,
-		"common": 1
-	},
-	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 113106,
+		"ips": 111560,
 		"common": 71
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9205525,
+		"ips": 9438008,
 		"common": 1
 	},
 	{
 		"name": "firehol_webclient",
 		"category": "malware",
-		"ips": 34218,
-		"common": 71
+		"ips": 34246,
+		"common": 72
 	},
 	{
 		"name": "iblocklist_ads",
 		"category": "organizations",
-		"ips": 888568,
+		"ips": 887837,
 		"common": 3
+	},
+	{
+		"name": "iblocklist_cidr_report_bogons",
+		"category": "unrouteable",
+		"ips": 601211592,
+		"common": 2
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
-		"ips": 227982775,
+		"ips": 227916432,
 		"common": 6
 	},
 	{
@@ -242,19 +230,19 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690110,
+		"ips": 762691390,
 		"common": 8
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
-		"ips": 346601387,
+		"ips": 346600445,
 		"common": 12
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
-		"ips": 138808079,
+		"ips": 139021294,
 		"common": 2
 	},
 	{
@@ -278,13 +266,25 @@
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 1356024,
+		"ips": 1305907,
 		"common": 2
 	},
 	{
 		"name": "malwaredomainlist",
 		"category": "malware",
 		"ips": 1029,
+		"common": 1
+	},
+	{
+		"name": "ransomware_feed",
+		"category": "malware",
+		"ips": 5138,
+		"common": 1
+	},
+	{
+		"name": "ransomware_online",
+		"category": "malware",
+		"ips": 176,
 		"common": 1
 	},
 	{

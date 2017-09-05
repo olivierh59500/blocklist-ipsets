@@ -84,6 +84,10 @@
 		"value": 5
 	},
 	{
+		"code": "BM",
+		"value": 1
+	},
+	{
 		"code": "BN",
 		"value": 26
 	},
@@ -433,7 +437,7 @@
 	},
 	{
 		"code": "MA",
-		"value": 426
+		"value": 429
 	},
 	{
 		"code": "MD",
@@ -705,7 +709,7 @@
 	},
 	{
 		"code": "TR",
-		"value": 322
+		"value": 323
 	},
 	{
 		"code": "TT",
@@ -729,7 +733,7 @@
 	},
 	{
 		"code": "US",
-		"value": 2546
+		"value": 2551
 	},
 	{
 		"code": "UY",

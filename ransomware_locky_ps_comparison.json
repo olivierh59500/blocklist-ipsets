@@ -2,37 +2,37 @@
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652100619,
+		"ips": 652092435,
 		"common": 2
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740797,
+		"ips": 34740989,
 		"common": 3
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 27004,
+		"ips": 27041,
 		"common": 3
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
-		"ips": 656148131,
+		"ips": 656069539,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
-		"ips": 227982775,
+		"ips": 227916432,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690110,
+		"ips": 762691390,
 		"common": 1
 	},
 	{
@@ -44,13 +44,13 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5078,
+		"ips": 5138,
 		"common": 3
 	},
 	{
 		"name": "ransomware_rw",
 		"category": "malware",
-		"ips": 327,
+		"ips": 331,
 		"common": 2
 	}
 ]

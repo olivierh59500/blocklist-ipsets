@@ -8,43 +8,43 @@
 	{
 		"name": "ciarmy",
 		"category": "reputation",
-		"ips": 10870,
+		"ips": 9863,
 		"common": 1
 	},
 	{
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601212360,
+		"ips": 601211592,
 		"common": 512
 	},
 	{
 		"name": "dronebl_anonymizers",
 		"category": "anonymizers",
-		"ips": 564119,
+		"ips": 570144,
 		"common": 26
 	},
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312232,
+		"ips": 312233,
 		"common": 2
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652100619,
+		"ips": 652092435,
 		"common": 512
 	},
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 113106,
+		"ips": 111560,
 		"common": 1
 	},
 	{
 		"name": "fullbogons",
 		"category": "unrouteable",
-		"ips": 626812040,
+		"ips": 626803592,
 		"common": 512
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
-		"ips": 656148131,
+		"ips": 656069539,
 		"common": 512
 	},
 	{
@@ -68,37 +68,37 @@
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601215432,
+		"ips": 601211592,
 		"common": 512
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
-		"ips": 227982775,
+		"ips": 227916432,
 		"common": 256
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690110,
+		"ips": 762691390,
 		"common": 512
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
-		"ips": 346601387,
+		"ips": 346600445,
 		"common": 512
 	},
 	{
 		"name": "iblocklist_level3",
 		"category": "reputation",
-		"ips": 138808079,
+		"ips": 139021294,
 		"common": 1024
 	},
 	{
 		"name": "lashback_ubl",
 		"category": "spam",
-		"ips": 1356024,
+		"ips": 1305907,
 		"common": 1
 	},
 	{
@@ -122,19 +122,19 @@
 	{
 		"name": "stopforumspam_180d",
 		"category": "abuse",
-		"ips": 260264,
+		"ips": 261271,
 		"common": 1
 	},
 	{
 		"name": "stopforumspam_365d",
 		"category": "abuse",
-		"ips": 374783,
+		"ips": 376716,
 		"common": 1
 	},
 	{
 		"name": "turris_greylist",
 		"category": "reputation",
-		"ips": 17102,
+		"ips": 20998,
 		"common": 1
 	}
 ]

@@ -1,7 +1,7 @@
 [
 	{
 		"code": "CN",
-		"value": 515
+		"value": 1025
 	},
 	{
 		"code": "KR",
@@ -9,18 +9,14 @@
 	},
 	{
 		"code": "NL",
-		"value": 256
-	},
-	{
-		"code": "RO",
-		"value": 256
+		"value": 257
 	},
 	{
 		"code": "TW",
-		"value": 770
+		"value": 514
 	},
 	{
 		"code": "US",
-		"value": 1280
+		"value": 1025
 	}
 ]

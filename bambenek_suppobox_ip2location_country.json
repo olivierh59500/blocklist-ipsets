@@ -1,10 +1,18 @@
 [
 	{
-		"code": "DE",
-		"value": 5
+		"code": "AU",
+		"value": 2
 	},
 	{
-		"code": "DK",
+		"code": "BG",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 1
+	},
+	{
+		"code": "DE",
 		"value": 1
 	},
 	{
@@ -13,22 +21,18 @@
 	},
 	{
 		"code": "GB",
-		"value": 2
-	},
-	{
-		"code": "IT",
-		"value": 8
+		"value": 3
 	},
 	{
 		"code": "JP",
-		"value": 4
+		"value": 3
 	},
 	{
 		"code": "NL",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "US",
-		"value": 27
+		"value": 24
 	}
 ]

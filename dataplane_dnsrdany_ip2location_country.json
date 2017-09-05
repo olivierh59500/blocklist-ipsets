@@ -9,11 +9,15 @@
 	},
 	{
 		"code": "ES",
+		"value": 3
+	},
+	{
+		"code": "GB",
 		"value": 1
 	},
 	{
 		"code": "NL",
-		"value": 3
+		"value": 4
 	},
 	{
 		"code": "NZ",
@@ -37,6 +41,6 @@
 	},
 	{
 		"code": "US",
-		"value": 2
+		"value": 1
 	}
 ]

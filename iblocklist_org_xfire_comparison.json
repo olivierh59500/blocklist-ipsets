@@ -20,19 +20,19 @@
 	{
 		"name": "dronebl_auto_botnets",
 		"category": "reputation",
-		"ips": 312232,
+		"ips": 312233,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9205525,
+		"ips": 9438008,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740797,
+		"ips": 34740989,
 		"common": 6
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 27004,
+		"ips": 27041,
 		"common": 6
 	},
 	{
@@ -56,19 +56,19 @@
 	{
 		"name": "iblocklist_ads",
 		"category": "organizations",
-		"ips": 888568,
+		"ips": 887837,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690110,
+		"ips": 762691390,
 		"common": 3328
 	},
 	{
 		"name": "iblocklist_yoyo_adservers",
 		"category": "organizations",
-		"ips": 11724,
+		"ips": 11720,
 		"common": 11
 	},
 	{

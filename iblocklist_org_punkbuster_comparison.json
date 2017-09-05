@@ -2,13 +2,13 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690110,
+		"ips": 762691390,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_rangetest",
 		"category": "reputation",
-		"ips": 4049480,
+		"ips": 4173160,
 		"common": 1
 	}
 ]

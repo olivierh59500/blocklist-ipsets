@@ -17,7 +17,11 @@
 	},
 	{
 		"code": "APNIC",
-		"value": 6030848
+		"value": 6020096
+	},
+	{
+		"code": "ARIN",
+		"value": 1024
 	},
 	{
 		"code": "AT",
@@ -25,7 +29,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 256
+		"value": 4096
 	},
 	{
 		"code": "BE",
@@ -77,7 +81,7 @@
 	},
 	{
 		"code": "EU",
-		"value": 6830976
+		"value": 6823296
 	},
 	{
 		"code": "FI",
@@ -105,7 +109,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 1792
+		"value": 4864
 	},
 	{
 		"code": "HR",
@@ -125,7 +129,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 512
+		"value": 1024
 	},
 	{
 		"code": "IQ",
@@ -169,7 +173,7 @@
 	},
 	{
 		"code": "LACNIC",
-		"value": 97024
+		"value": 92928
 	},
 	{
 		"code": "LB",
@@ -202,6 +206,10 @@
 	{
 		"code": "MK",
 		"value": 512
+	},
+	{
+		"code": "MN",
+		"value": 2048
 	},
 	{
 		"code": "MT",
@@ -237,7 +245,7 @@
 	},
 	{
 		"code": "PK",
-		"value": 2048
+		"value": 3072
 	},
 	{
 		"code": "PL",
@@ -317,7 +325,7 @@
 	},
 	{
 		"code": "US",
-		"value": 86144
+		"value": 87168
 	},
 	{
 		"code": "UY",

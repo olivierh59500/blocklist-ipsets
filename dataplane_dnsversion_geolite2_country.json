@@ -5,10 +5,10 @@
 	},
 	{
 		"code": "CN",
-		"value": 19
+		"value": 16
 	},
 	{
-		"code": "FR",
+		"code": "EC",
 		"value": 1
 	},
 	{
@@ -21,7 +21,7 @@
 	},
 	{
 		"code": "IS",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "IT",
@@ -36,8 +36,12 @@
 		"value": 7
 	},
 	{
+		"code": "SG",
+		"value": 2
+	},
+	{
 		"code": "US",
-		"value": 224
+		"value": 214
 	},
 	{
 		"code": "VN",

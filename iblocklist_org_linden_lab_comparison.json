@@ -2,7 +2,7 @@
 	{
 		"name": "dronebl_ddos_drones",
 		"category": "attacks",
-		"ips": 367035,
+		"ips": 367030,
 		"common": 1
 	},
 	{
@@ -20,13 +20,13 @@
 	{
 		"name": "iblocklist_level1",
 		"category": "reputation",
-		"ips": 762690110,
+		"ips": 762691390,
 		"common": 23600
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
-		"ips": 346601387,
+		"ips": 346600445,
 		"common": 1024
 	},
 	{
@@ -38,8 +38,8 @@
 	{
 		"name": "nixspam",
 		"category": "spam",
-		"ips": 11999,
-		"common": 8
+		"ips": 8436,
+		"common": 1
 	},
 	{
 		"name": "sorbs_new_spam",

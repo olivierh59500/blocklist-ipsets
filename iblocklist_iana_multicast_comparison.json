@@ -14,37 +14,37 @@
 	{
 		"name": "cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601212360,
+		"ips": 601211592,
 		"common": 268435456
 	},
 	{
 		"name": "firehol_level1",
 		"category": "attacks",
-		"ips": 652100619,
+		"ips": 652092435,
 		"common": 268435456
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9205525,
+		"ips": 9438008,
 		"common": 1
 	},
 	{
 		"name": "fullbogons",
 		"category": "unrouteable",
-		"ips": 626812040,
+		"ips": 626803592,
 		"common": 268435456
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
-		"ips": 656148131,
+		"ips": 656069539,
 		"common": 268435456
 	},
 	{
 		"name": "iblocklist_cidr_report_bogons",
 		"category": "unrouteable",
-		"ips": 601215432,
+		"ips": 601211592,
 		"common": 268435456
 	},
 	{
@@ -56,7 +56,7 @@
 	{
 		"name": "iblocklist_spyware",
 		"category": "reputation",
-		"ips": 338764,
+		"ips": 338621,
 		"common": 1
 	},
 	{

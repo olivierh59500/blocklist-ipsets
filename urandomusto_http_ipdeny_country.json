@@ -1,18 +1,50 @@
 [
 	{
-		"code": "CA",
+		"code": "AU",
+		"value": 1
+	},
+	{
+		"code": "AZ",
+		"value": 1
+	},
+	{
+		"code": "BR",
+		"value": 11
+	},
+	{
+		"code": "CH",
+		"value": 1
+	},
+	{
+		"code": "CL",
 		"value": 1
 	},
 	{
 		"code": "CN",
-		"value": 7
+		"value": 26
 	},
 	{
-		"code": "EC",
+		"code": "FR",
+		"value": 2
+	},
+	{
+		"code": "IN",
 		"value": 1
 	},
 	{
+		"code": "MG",
+		"value": 1
+	},
+	{
+		"code": "TW",
+		"value": 3
+	},
+	{
 		"code": "US",
-		"value": 138
+		"value": 131
+	},
+	{
+		"code": "ZA",
+		"value": 1
 	}
 ]

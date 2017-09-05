@@ -14,25 +14,25 @@
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740797,
+		"ips": 34740989,
 		"common": 1
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 27004,
+		"ips": 27041,
 		"common": 1
 	},
 	{
 		"name": "hphosts_fsa",
 		"category": "reputation",
-		"ips": 26814,
+		"ips": 26751,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_edu",
 		"category": "organizations",
-		"ips": 227982775,
+		"ips": 227916432,
 		"common": 2
 	},
 	{
@@ -44,7 +44,7 @@
 	{
 		"name": "ransomware_feed",
 		"category": "malware",
-		"ips": 5078,
+		"ips": 5138,
 		"common": 1
 	},
 	{

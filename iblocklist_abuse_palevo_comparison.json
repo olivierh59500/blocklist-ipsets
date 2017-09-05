@@ -8,49 +8,49 @@
 	{
 		"name": "firehol_level3",
 		"category": "attacks",
-		"ips": 113106,
+		"ips": 111560,
 		"common": 1
 	},
 	{
 		"name": "firehol_level4",
 		"category": "attacks",
-		"ips": 9205525,
+		"ips": 9438008,
 		"common": 1
 	},
 	{
 		"name": "firehol_webserver",
 		"category": "attacks",
-		"ips": 34740797,
+		"ips": 34740989,
 		"common": 3
 	},
 	{
 		"name": "hphosts_emd",
 		"category": "malware",
-		"ips": 27004,
+		"ips": 27041,
 		"common": 2
 	},
 	{
 		"name": "iblocklist_bogons",
 		"category": "unrouteable",
-		"ips": 656148131,
+		"ips": 656069539,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_level2",
 		"category": "reputation",
-		"ips": 346601387,
+		"ips": 346600445,
 		"common": 1
 	},
 	{
 		"name": "iblocklist_org_microsoft",
 		"category": "organizations",
-		"ips": 1831703,
+		"ips": 1847495,
 		"common": 2
 	},
 	{
 		"name": "iblocklist_spyware",
 		"category": "reputation",
-		"ips": 338764,
+		"ips": 338621,
 		"common": 1
 	},
 	{
@@ -68,19 +68,19 @@
 	{
 		"name": "snort_ipfilter",
 		"category": "attacks",
-		"ips": 6428,
+		"ips": 6728,
 		"common": 1
 	},
 	{
 		"name": "taichung",
 		"category": "attacks",
-		"ips": 10666,
+		"ips": 10509,
 		"common": 5
 	},
 	{
 		"name": "talosintel_ipfilter",
 		"category": "attacks",
-		"ips": 6418,
+		"ips": 6728,
 		"common": 1
 	},
 	{

@@ -1,9 +1,5 @@
 [
 	{
-		"code": "AE",
-		"value": 128
-	},
-	{
 		"code": "AM",
 		"value": 256
 	},
@@ -13,27 +9,27 @@
 	},
 	{
 		"code": "COUNTRYLESS",
-		"value": 601207688
+		"value": 601191240
 	},
 	{
 		"code": "CY",
-		"value": 672
+		"value": 160
+	},
+	{
+		"code": "DK",
+		"value": 2048
 	},
 	{
 		"code": "FR",
-		"value": 608
+		"value": 352
 	},
 	{
 		"code": "GB",
-		"value": 384
-	},
-	{
-		"code": "IL",
-		"value": 128
+		"value": 5376
 	},
 	{
 		"code": "IR",
-		"value": 1024
+		"value": 3072
 	},
 	{
 		"code": "IT",
@@ -48,8 +44,12 @@
 		"value": 2048
 	},
 	{
-		"code": "NO",
-		"value": 128
+		"code": "RO",
+		"value": 256
+	},
+	{
+		"code": "RU",
+		"value": 1280
 	},
 	{
 		"code": "SA",
@@ -57,10 +57,14 @@
 	},
 	{
 		"code": "SE",
-		"value": 160
+		"value": 224
 	},
 	{
 		"code": "TR",
-		"value": 768
+		"value": 2816
+	},
+	{
+		"code": "UA",
+		"value": 1024
 	}
 ]

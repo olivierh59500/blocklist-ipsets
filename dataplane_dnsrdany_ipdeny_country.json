@@ -5,7 +5,7 @@
 	},
 	{
 		"code": "CL",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "CN",
@@ -13,11 +13,15 @@
 	},
 	{
 		"code": "ES",
-		"value": 1
+		"value": 3
 	},
 	{
 		"code": "EU",
-		"value": 2
+		"value": 1
+	},
+	{
+		"code": "GB",
+		"value": 1
 	},
 	{
 		"code": "IR",
@@ -25,7 +29,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 3
+		"value": 4
 	},
 	{
 		"code": "NZ",
@@ -41,6 +45,6 @@
 	},
 	{
 		"code": "US",
-		"value": 2
+		"value": 1
 	}
 ]

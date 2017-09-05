@@ -5,7 +5,7 @@
 	},
 	{
 		"code": "ARIN",
-		"value": 13312
+		"value": 14336
 	},
 	{
 		"code": "AT",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "CA",
-		"value": 132352
+		"value": 131584
 	},
 	{
 		"code": "CL",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 789504
+		"value": 1051648
 	},
 	{
 		"code": "CO",
@@ -89,11 +89,11 @@
 	},
 	{
 		"code": "IN",
-		"value": 142592
+		"value": 142848
 	},
 	{
 		"code": "IR",
-		"value": 263424
+		"value": 263936
 	},
 	{
 		"code": "JM",
@@ -109,7 +109,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 852992
+		"value": 918528
 	},
 	{
 		"code": "KZ",
@@ -177,7 +177,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 104704
+		"value": 103168
 	},
 	{
 		"code": "SA",
@@ -201,11 +201,11 @@
 	},
 	{
 		"code": "UA",
-		"value": 362496
+		"value": 363520
 	},
 	{
 		"code": "US",
-		"value": 3969280
+		"value": 3877632
 	},
 	{
 		"code": "UZ",

@@ -17,11 +17,11 @@
 	},
 	{
 		"code": "ANYCAST",
-		"value": 273
+		"value": 269
 	},
 	{
 		"code": "APNIC",
-		"value": 6030848
+		"value": 6020096
 	},
 	{
 		"code": "AR",
@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "ARIN",
-		"value": 1024
+		"value": 2048
 	},
 	{
 		"code": "AT",
@@ -37,7 +37,7 @@
 	},
 	{
 		"code": "AU",
-		"value": 489748
+		"value": 493590
 	},
 	{
 		"code": "AZ",
@@ -61,7 +61,7 @@
 	},
 	{
 		"code": "BG",
-		"value": 195092
+		"value": 194837
 	},
 	{
 		"code": "BH",
@@ -85,11 +85,11 @@
 	},
 	{
 		"code": "CA",
-		"value": 323371
+		"value": 323370
 	},
 	{
 		"code": "CH",
-		"value": 337807
+		"value": 337806
 	},
 	{
 		"code": "CI",
@@ -105,7 +105,7 @@
 	},
 	{
 		"code": "CN",
-		"value": 10313754
+		"value": 10313752
 	},
 	{
 		"code": "CO",
@@ -121,15 +121,15 @@
 	},
 	{
 		"code": "CZ",
-		"value": 42265
+		"value": 42266
 	},
 	{
 		"code": "DE",
-		"value": 1287981
+		"value": 1287978
 	},
 	{
 		"code": "DK",
-		"value": 13522
+		"value": 13521
 	},
 	{
 		"code": "EC",
@@ -153,7 +153,7 @@
 	},
 	{
 		"code": "EU",
-		"value": 6961792
+		"value": 6954112
 	},
 	{
 		"code": "FI",
@@ -161,7 +161,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 386676
+		"value": 386678
 	},
 	{
 		"code": "GB",
@@ -185,7 +185,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 234776
+		"value": 237848
 	},
 	{
 		"code": "HN",
@@ -197,11 +197,11 @@
 	},
 	{
 		"code": "HU",
-		"value": 136713
+		"value": 136714
 	},
 	{
 		"code": "ID",
-		"value": 90122
+		"value": 90123
 	},
 	{
 		"code": "IE",
@@ -213,7 +213,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 93722
+		"value": 94234
 	},
 	{
 		"code": "IQ",
@@ -237,7 +237,7 @@
 	},
 	{
 		"code": "JP",
-		"value": 1130520
+		"value": 1130522
 	},
 	{
 		"code": "KE",
@@ -249,7 +249,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 1016842
+		"value": 1016843
 	},
 	{
 		"code": "KW",
@@ -261,7 +261,7 @@
 	},
 	{
 		"code": "LACNIC",
-		"value": 97024
+		"value": 92928
 	},
 	{
 		"code": "LB",
@@ -304,6 +304,10 @@
 		"value": 2
 	},
 	{
+		"code": "MN",
+		"value": 2048
+	},
+	{
 		"code": "MT",
 		"value": 256
 	},
@@ -329,7 +333,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 418442
+		"value": 418445
 	},
 	{
 		"code": "NO",
@@ -353,7 +357,7 @@
 	},
 	{
 		"code": "PK",
-		"value": 3074
+		"value": 4098
 	},
 	{
 		"code": "PL",
@@ -381,7 +385,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 403940
+		"value": 403945
 	},
 	{
 		"code": "SA",
@@ -449,7 +453,7 @@
 	},
 	{
 		"code": "US",
-		"value": 6284350
+		"value": 6285887
 	},
 	{
 		"code": "UY",

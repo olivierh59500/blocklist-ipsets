@@ -1,7 +1,7 @@
 [
 	{
 		"code": "ANYCAST",
-		"value": 6
+		"value": 4
 	},
 	{
 		"code": "BR",
@@ -9,15 +9,15 @@
 	},
 	{
 		"code": "CA",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "CH",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "CN",
-		"value": 9
+		"value": 8
 	},
 	{
 		"code": "CZ",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "JP",
-		"value": 7
+		"value": 8
 	},
 	{
 		"code": "LV",

@@ -9,11 +9,11 @@
 	},
 	{
 		"code": "CN",
-		"value": 87
+		"value": 75
 	},
 	{
 		"code": "CZ",
-		"value": 3
+		"value": 2
 	},
 	{
 		"code": "EG",
@@ -45,7 +45,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 13
+		"value": 3
 	},
 	{
 		"code": "RU",
@@ -57,6 +57,6 @@
 	},
 	{
 		"code": "UA",
-		"value": 13
+		"value": 18
 	}
 ]

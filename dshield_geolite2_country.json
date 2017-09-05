@@ -16,12 +16,8 @@
 		"value": 256
 	},
 	{
-		"code": "LV",
-		"value": 256
-	},
-	{
 		"code": "NL",
-		"value": 259
+		"value": 3
 	},
 	{
 		"code": "PL",
@@ -29,15 +25,11 @@
 	},
 	{
 		"code": "RU",
-		"value": 1280
+		"value": 1792
 	},
 	{
 		"code": "SC",
 		"value": 756
-	},
-	{
-		"code": "SE",
-		"value": 256
 	},
 	{
 		"code": "UA",
@@ -45,6 +37,6 @@
 	},
 	{
 		"code": "US",
-		"value": 1536
+		"value": 2048
 	}
 ]

@@ -1,75 +1,71 @@
 [
 	{
-		"code": "AU",
-		"value": 2
+		"code": "AE",
+		"value": 4
 	},
 	{
 		"code": "BR",
-		"value": 3
+		"value": 5
 	},
 	{
 		"code": "BS",
 		"value": 1
 	},
 	{
-		"code": "CH",
-		"value": 1
-	},
-	{
-		"code": "CL",
-		"value": 2
-	},
-	{
-		"code": "CN",
-		"value": 56
-	},
-	{
-		"code": "CO",
-		"value": 1
-	},
-	{
-		"code": "CZ",
-		"value": 1
-	},
-	{
-		"code": "DE",
-		"value": 1
-	},
-	{
-		"code": "EG",
-		"value": 2
-	},
-	{
-		"code": "ES",
-		"value": 2
-	},
-	{
-		"code": "EU",
-		"value": 1
-	},
-	{
-		"code": "FR",
-		"value": 2
-	},
-	{
-		"code": "GB",
-		"value": 1
-	},
-	{
-		"code": "HK",
-		"value": 2
-	},
-	{
-		"code": "IN",
+		"code": "CA",
 		"value": 3
 	},
 	{
+		"code": "CL",
+		"value": 1
+	},
+	{
+		"code": "CN",
+		"value": 52
+	},
+	{
+		"code": "CZ",
+		"value": 3
+	},
+	{
+		"code": "DE",
+		"value": 3
+	},
+	{
+		"code": "EE",
+		"value": 1
+	},
+	{
+		"code": "ES",
+		"value": 3
+	},
+	{
+		"code": "FR",
+		"value": 4
+	},
+	{
+		"code": "GB",
+		"value": 5
+	},
+	{
+		"code": "GR",
+		"value": 1
+	},
+	{
+		"code": "ID",
+		"value": 1
+	},
+	{
+		"code": "IN",
+		"value": 5
+	},
+	{
 		"code": "IT",
-		"value": 2
+		"value": 1
 	},
 	{
 		"code": "JP",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "KG",
@@ -77,35 +73,35 @@
 	},
 	{
 		"code": "KR",
-		"value": 3
+		"value": 6
 	},
 	{
 		"code": "LT",
-		"value": 1
+		"value": 2
 	},
 	{
-		"code": "LV",
-		"value": 3
+		"code": "MA",
+		"value": 1
 	},
 	{
 		"code": "MD",
-		"value": 1
+		"value": 2
 	},
 	{
-		"code": "MK",
+		"code": "MN",
 		"value": 1
 	},
 	{
 		"code": "NL",
-		"value": 12
+		"value": 13
 	},
 	{
 		"code": "PA",
 		"value": 1
 	},
 	{
-		"code": "PE",
-		"value": 2
+		"code": "PK",
+		"value": 1
 	},
 	{
 		"code": "PL",
@@ -116,31 +112,39 @@
 		"value": 21
 	},
 	{
-		"code": "SE",
-		"value": 3
+		"code": "SA",
+		"value": 1
 	},
 	{
-		"code": "SG",
-		"value": 3
+		"code": "TH",
+		"value": 1
+	},
+	{
+		"code": "TN",
+		"value": 1
 	},
 	{
 		"code": "TR",
 		"value": 2
 	},
 	{
-		"code": "TT",
-		"value": 1
+		"code": "TW",
+		"value": 2
 	},
 	{
 		"code": "UA",
-		"value": 2
+		"value": 8
 	},
 	{
 		"code": "US",
-		"value": 37
+		"value": 40
 	},
 	{
 		"code": "VN",
-		"value": 2
+		"value": 1
+	},
+	{
+		"code": "ZA",
+		"value": 3
 	}
 ]

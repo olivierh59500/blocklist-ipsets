@@ -9,6 +9,10 @@
 	},
 	{
 		"code": "ES",
+		"value": 3
+	},
+	{
+		"code": "GB",
 		"value": 1
 	},
 	{
@@ -17,7 +21,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "NZ",
@@ -29,11 +33,11 @@
 	},
 	{
 		"code": "RU",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "SC",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "UA",
@@ -41,6 +45,6 @@
 	},
 	{
 		"code": "US",
-		"value": 2
+		"value": 1
 	}
 ]

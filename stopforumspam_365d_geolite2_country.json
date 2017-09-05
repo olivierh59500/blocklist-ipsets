@@ -5,7 +5,7 @@
 	},
 	{
 		"code": "AE",
-		"value": 334
+		"value": 337
 	},
 	{
 		"code": "AF",
@@ -21,11 +21,11 @@
 	},
 	{
 		"code": "AL",
-		"value": 183
+		"value": 184
 	},
 	{
 		"code": "AM",
-		"value": 222
+		"value": 223
 	},
 	{
 		"code": "AO",
@@ -33,7 +33,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 388
+		"value": 391
 	},
 	{
 		"code": "AS",
@@ -41,15 +41,15 @@
 	},
 	{
 		"code": "AT",
-		"value": 553
+		"value": 555
 	},
 	{
 		"code": "AU",
-		"value": 1459
+		"value": 1472
 	},
 	{
 		"code": "AW",
-		"value": 36
+		"value": 38
 	},
 	{
 		"code": "AX",
@@ -57,11 +57,11 @@
 	},
 	{
 		"code": "AZ",
-		"value": 90
+		"value": 91
 	},
 	{
 		"code": "BA",
-		"value": 114
+		"value": 117
 	},
 	{
 		"code": "BB",
@@ -69,11 +69,11 @@
 	},
 	{
 		"code": "BD",
-		"value": 3981
+		"value": 3990
 	},
 	{
 		"code": "BE",
-		"value": 332
+		"value": 336
 	},
 	{
 		"code": "BF",
@@ -81,7 +81,7 @@
 	},
 	{
 		"code": "BG",
-		"value": 473
+		"value": 481
 	},
 	{
 		"code": "BH",
@@ -93,11 +93,11 @@
 	},
 	{
 		"code": "BJ",
-		"value": 96
+		"value": 97
 	},
 	{
 		"code": "BM",
-		"value": 17
+		"value": 18
 	},
 	{
 		"code": "BN",
@@ -105,11 +105,11 @@
 	},
 	{
 		"code": "BO",
-		"value": 58
+		"value": 60
 	},
 	{
 		"code": "BR",
-		"value": 10196
+		"value": 10363
 	},
 	{
 		"code": "BS",
@@ -125,19 +125,19 @@
 	},
 	{
 		"code": "BY",
-		"value": 2729
+		"value": 2741
 	},
 	{
 		"code": "BZ",
-		"value": 78
+		"value": 81
 	},
 	{
 		"code": "CA",
-		"value": 11675
+		"value": 11690
 	},
 	{
 		"code": "CD",
-		"value": 4
+		"value": 5
 	},
 	{
 		"code": "CF",
@@ -145,15 +145,15 @@
 	},
 	{
 		"code": "CG",
-		"value": 4
+		"value": 5
 	},
 	{
 		"code": "CH",
-		"value": 888
+		"value": 901
 	},
 	{
 		"code": "CI",
-		"value": 74
+		"value": 75
 	},
 	{
 		"code": "CK",
@@ -161,31 +161,31 @@
 	},
 	{
 		"code": "CL",
-		"value": 1033
+		"value": 1047
 	},
 	{
 		"code": "CM",
-		"value": 734
+		"value": 745
 	},
 	{
 		"code": "CN",
-		"value": 21075
+		"value": 21040
 	},
 	{
 		"code": "CO",
-		"value": 412
+		"value": 416
 	},
 	{
 		"code": "CR",
-		"value": 81
+		"value": 82
 	},
 	{
 		"code": "CU",
-		"value": 32
+		"value": 35
 	},
 	{
 		"code": "CV",
-		"value": 22
+		"value": 20
 	},
 	{
 		"code": "CW",
@@ -197,11 +197,11 @@
 	},
 	{
 		"code": "CZ",
-		"value": 914
+		"value": 932
 	},
 	{
 		"code": "DE",
-		"value": 11552
+		"value": 11623
 	},
 	{
 		"code": "DJ",
@@ -209,31 +209,31 @@
 	},
 	{
 		"code": "DK",
-		"value": 424
+		"value": 426
 	},
 	{
 		"code": "DM",
-		"value": 15
+		"value": 9
 	},
 	{
 		"code": "DO",
-		"value": 88
+		"value": 89
 	},
 	{
 		"code": "DZ",
-		"value": 250
+		"value": 249
 	},
 	{
 		"code": "EC",
-		"value": 219
+		"value": 229
 	},
 	{
 		"code": "EE",
-		"value": 731
+		"value": 732
 	},
 	{
 		"code": "EG",
-		"value": 980
+		"value": 991
 	},
 	{
 		"code": "ER",
@@ -241,7 +241,7 @@
 	},
 	{
 		"code": "ES",
-		"value": 1179
+		"value": 1181
 	},
 	{
 		"code": "ET",
@@ -249,7 +249,7 @@
 	},
 	{
 		"code": "FI",
-		"value": 500
+		"value": 501
 	},
 	{
 		"code": "FJ",
@@ -265,15 +265,15 @@
 	},
 	{
 		"code": "FR",
-		"value": 8333
+		"value": 8369
 	},
 	{
 		"code": "GA",
-		"value": 6
+		"value": 7
 	},
 	{
 		"code": "GB",
-		"value": 7720
+		"value": 7782
 	},
 	{
 		"code": "GD",
@@ -281,7 +281,7 @@
 	},
 	{
 		"code": "GE",
-		"value": 146
+		"value": 148
 	},
 	{
 		"code": "GF",
@@ -293,7 +293,7 @@
 	},
 	{
 		"code": "GH",
-		"value": 227
+		"value": 231
 	},
 	{
 		"code": "GI",
@@ -321,7 +321,7 @@
 	},
 	{
 		"code": "GR",
-		"value": 331
+		"value": 335
 	},
 	{
 		"code": "GT",
@@ -337,7 +337,7 @@
 	},
 	{
 		"code": "HK",
-		"value": 1496
+		"value": 1504
 	},
 	{
 		"code": "HN",
@@ -345,7 +345,7 @@
 	},
 	{
 		"code": "HR",
-		"value": 169
+		"value": 173
 	},
 	{
 		"code": "HT",
@@ -353,43 +353,43 @@
 	},
 	{
 		"code": "HU",
-		"value": 247
+		"value": 254
 	},
 	{
 		"code": "ID",
-		"value": 4490
+		"value": 4522
 	},
 	{
 		"code": "IE",
-		"value": 811
+		"value": 814
 	},
 	{
 		"code": "IL",
-		"value": 974
+		"value": 985
 	},
 	{
 		"code": "IM",
-		"value": 32
+		"value": 33
 	},
 	{
 		"code": "IN",
-		"value": 43218
+		"value": 43515
 	},
 	{
 		"code": "IQ",
-		"value": 81
+		"value": 80
 	},
 	{
 		"code": "IR",
-		"value": 1191
+		"value": 1202
 	},
 	{
 		"code": "IS",
-		"value": 142
+		"value": 145
 	},
 	{
 		"code": "IT",
-		"value": 2860
+		"value": 2867
 	},
 	{
 		"code": "JE",
@@ -397,7 +397,7 @@
 	},
 	{
 		"code": "JM",
-		"value": 21
+		"value": 22
 	},
 	{
 		"code": "JO",
@@ -405,19 +405,19 @@
 	},
 	{
 		"code": "JP",
-		"value": 2217
+		"value": 2223
 	},
 	{
 		"code": "KE",
-		"value": 162
+		"value": 167
 	},
 	{
 		"code": "KG",
-		"value": 49
+		"value": 51
 	},
 	{
 		"code": "KH",
-		"value": 293
+		"value": 297
 	},
 	{
 		"code": "KI",
@@ -429,7 +429,7 @@
 	},
 	{
 		"code": "KR",
-		"value": 5767
+		"value": 5799
 	},
 	{
 		"code": "KW",
@@ -441,7 +441,7 @@
 	},
 	{
 		"code": "KZ",
-		"value": 539
+		"value": 542
 	},
 	{
 		"code": "LA",
@@ -461,7 +461,7 @@
 	},
 	{
 		"code": "LK",
-		"value": 252
+		"value": 254
 	},
 	{
 		"code": "LR",
@@ -473,23 +473,23 @@
 	},
 	{
 		"code": "LT",
-		"value": 388
+		"value": 390
 	},
 	{
 		"code": "LU",
-		"value": 432
+		"value": 433
 	},
 	{
 		"code": "LV",
-		"value": 501
+		"value": 506
 	},
 	{
 		"code": "LY",
-		"value": 19
+		"value": 20
 	},
 	{
 		"code": "MA",
-		"value": 596
+		"value": 605
 	},
 	{
 		"code": "MC",
@@ -497,7 +497,7 @@
 	},
 	{
 		"code": "MD",
-		"value": 417
+		"value": 418
 	},
 	{
 		"code": "ME",
@@ -505,11 +505,11 @@
 	},
 	{
 		"code": "MG",
-		"value": 58
+		"value": 60
 	},
 	{
 		"code": "MK",
-		"value": 75
+		"value": 77
 	},
 	{
 		"code": "ML",
@@ -525,11 +525,11 @@
 	},
 	{
 		"code": "MO",
-		"value": 43
+		"value": 44
 	},
 	{
 		"code": "MQ",
-		"value": 2
+		"value": 3
 	},
 	{
 		"code": "MR",
@@ -541,11 +541,11 @@
 	},
 	{
 		"code": "MT",
-		"value": 54
+		"value": 55
 	},
 	{
 		"code": "MU",
-		"value": 44
+		"value": 46
 	},
 	{
 		"code": "MV",
@@ -557,15 +557,15 @@
 	},
 	{
 		"code": "MX",
-		"value": 936
+		"value": 945
 	},
 	{
 		"code": "MY",
-		"value": 524
+		"value": 529
 	},
 	{
 		"code": "MZ",
-		"value": 17
+		"value": 18
 	},
 	{
 		"code": "NA",
@@ -581,23 +581,23 @@
 	},
 	{
 		"code": "NG",
-		"value": 988
+		"value": 1009
 	},
 	{
 		"code": "NI",
-		"value": 68
+		"value": 69
 	},
 	{
 		"code": "NL",
-		"value": 7514
+		"value": 7545
 	},
 	{
 		"code": "NO",
-		"value": 597
+		"value": 604
 	},
 	{
 		"code": "NP",
-		"value": 154
+		"value": 158
 	},
 	{
 		"code": "NR",
@@ -609,7 +609,7 @@
 	},
 	{
 		"code": "NZ",
-		"value": 191
+		"value": 192
 	},
 	{
 		"code": "OM",
@@ -617,11 +617,11 @@
 	},
 	{
 		"code": "PA",
-		"value": 389
+		"value": 390
 	},
 	{
 		"code": "PE",
-		"value": 139
+		"value": 141
 	},
 	{
 		"code": "PF",
@@ -633,27 +633,27 @@
 	},
 	{
 		"code": "PH",
-		"value": 2053
+		"value": 2121
 	},
 	{
 		"code": "PK",
-		"value": 27004
+		"value": 27036
 	},
 	{
 		"code": "PL",
-		"value": 5452
+		"value": 5494
 	},
 	{
 		"code": "PR",
-		"value": 34
+		"value": 36
 	},
 	{
 		"code": "PS",
-		"value": 54
+		"value": 55
 	},
 	{
 		"code": "PT",
-		"value": 290
+		"value": 296
 	},
 	{
 		"code": "PW",
@@ -661,11 +661,11 @@
 	},
 	{
 		"code": "PY",
-		"value": 46
+		"value": 47
 	},
 	{
 		"code": "QA",
-		"value": 93
+		"value": 94
 	},
 	{
 		"code": "RE",
@@ -673,23 +673,23 @@
 	},
 	{
 		"code": "RO",
-		"value": 3218
+		"value": 3244
 	},
 	{
 		"code": "RS",
-		"value": 448
+		"value": 451
 	},
 	{
 		"code": "RU",
-		"value": 51074
+		"value": 51165
 	},
 	{
 		"code": "RW",
-		"value": 16
+		"value": 17
 	},
 	{
 		"code": "SA",
-		"value": 361
+		"value": 362
 	},
 	{
 		"code": "SB",
@@ -697,7 +697,7 @@
 	},
 	{
 		"code": "SC",
-		"value": 1683
+		"value": 1717
 	},
 	{
 		"code": "SD",
@@ -705,19 +705,15 @@
 	},
 	{
 		"code": "SE",
-		"value": 5931
+		"value": 5978
 	},
 	{
 		"code": "SG",
-		"value": 1895
-	},
-	{
-		"code": "SH",
-		"value": 1
+		"value": 1907
 	},
 	{
 		"code": "SI",
-		"value": 101
+		"value": 102
 	},
 	{
 		"code": "SJ",
@@ -725,7 +721,7 @@
 	},
 	{
 		"code": "SK",
-		"value": 118
+		"value": 119
 	},
 	{
 		"code": "SL",
@@ -737,7 +733,7 @@
 	},
 	{
 		"code": "SN",
-		"value": 64
+		"value": 66
 	},
 	{
 		"code": "SO",
@@ -745,7 +741,7 @@
 	},
 	{
 		"code": "SR",
-		"value": 13
+		"value": 14
 	},
 	{
 		"code": "ST",
@@ -761,7 +757,7 @@
 	},
 	{
 		"code": "SY",
-		"value": 11
+		"value": 12
 	},
 	{
 		"code": "SZ",
@@ -785,11 +781,11 @@
 	},
 	{
 		"code": "TH",
-		"value": 3007
+		"value": 3029
 	},
 	{
 		"code": "TJ",
-		"value": 38
+		"value": 36
 	},
 	{
 		"code": "TL",
@@ -801,19 +797,19 @@
 	},
 	{
 		"code": "TN",
-		"value": 161
+		"value": 163
 	},
 	{
 		"code": "TR",
-		"value": 1629
+		"value": 1641
 	},
 	{
 		"code": "TT",
-		"value": 21
+		"value": 22
 	},
 	{
 		"code": "TW",
-		"value": 1214
+		"value": 1207
 	},
 	{
 		"code": "TZ",
@@ -821,15 +817,15 @@
 	},
 	{
 		"code": "UA",
-		"value": 11121
+		"value": 11158
 	},
 	{
 		"code": "UG",
-		"value": 20
+		"value": 21
 	},
 	{
 		"code": "US",
-		"value": 101564
+		"value": 102098
 	},
 	{
 		"code": "UY",
@@ -845,11 +841,11 @@
 	},
 	{
 		"code": "VE",
-		"value": 347
+		"value": 354
 	},
 	{
 		"code": "VG",
-		"value": 589
+		"value": 593
 	},
 	{
 		"code": "VI",
@@ -857,7 +853,7 @@
 	},
 	{
 		"code": "VN",
-		"value": 8091
+		"value": 8134
 	},
 	{
 		"code": "VU",
@@ -873,7 +869,7 @@
 	},
 	{
 		"code": "YE",
-		"value": 36
+		"value": 38
 	},
 	{
 		"code": "YT",
@@ -881,11 +877,11 @@
 	},
 	{
 		"code": "ZA",
-		"value": 1358
+		"value": 1366
 	},
 	{
 		"code": "ZM",
-		"value": 21
+		"value": 20
 	},
 	{
 		"code": "ZW",

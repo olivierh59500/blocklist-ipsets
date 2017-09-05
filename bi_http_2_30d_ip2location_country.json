@@ -1,7 +1,7 @@
 [
 	{
 		"code": "CA",
-		"value": 1
+		"value": 2
 	},
 	{
 		"code": "CH",
@@ -9,11 +9,11 @@
 	},
 	{
 		"code": "CN",
-		"value": 24
+		"value": 23
 	},
 	{
 		"code": "DE",
-		"value": 4
+		"value": 5
 	},
 	{
 		"code": "FR",
@@ -69,6 +69,6 @@
 	},
 	{
 		"code": "US",
-		"value": 22
+		"value": 25
 	}
 ]

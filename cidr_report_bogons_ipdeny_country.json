@@ -1,6 +1,10 @@
 [
 	{
-		"code": "TR",
+		"code": "DK",
 		"value": 2048
+	},
+	{
+		"code": "RU",
+		"value": 1280
 	}
 ]

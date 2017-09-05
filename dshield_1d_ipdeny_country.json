@@ -1,5 +1,9 @@
 [
 	{
+		"code": "CH",
+		"value": 256
+	},
+	{
 		"code": "CL",
 		"value": 256
 	},
@@ -8,12 +12,20 @@
 		"value": 512
 	},
 	{
+		"code": "GB",
+		"value": 256
+	},
+	{
 		"code": "LV",
 		"value": 256
 	},
 	{
+		"code": "MN",
+		"value": 256
+	},
+	{
 		"code": "NL",
-		"value": 1280
+		"value": 512
 	},
 	{
 		"code": "PL",
@@ -21,7 +33,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 2048
+		"value": 1792
 	},
 	{
 		"code": "UA",

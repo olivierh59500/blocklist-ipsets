@@ -5,7 +5,7 @@
 	},
 	{
 		"code": "ANYCAST",
-		"value": 512
+		"value": 768
 	},
 	{
 		"code": "APNIC",
@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "BE",
-		"value": 560
+		"value": 304
 	},
 	{
 		"code": "BG",
@@ -93,7 +93,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 21562
+		"value": 21546
 	},
 	{
 		"code": "GR",
@@ -129,11 +129,11 @@
 	},
 	{
 		"code": "IT",
-		"value": 1040
+		"value": 1024
 	},
 	{
 		"code": "JP",
-		"value": 13272
+		"value": 13304
 	},
 	{
 		"code": "KR",
@@ -169,7 +169,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 85209
+		"value": 85145
 	},
 	{
 		"code": "NO",
@@ -209,7 +209,7 @@
 	},
 	{
 		"code": "RU",
-		"value": 1096
+		"value": 1080
 	},
 	{
 		"code": "SE",
@@ -217,7 +217,7 @@
 	},
 	{
 		"code": "SG",
-		"value": 59824
+		"value": 59888
 	},
 	{
 		"code": "SI",
@@ -241,7 +241,7 @@
 	},
 	{
 		"code": "US",
-		"value": 1479264
+		"value": 1495072
 	},
 	{
 		"code": "VN",

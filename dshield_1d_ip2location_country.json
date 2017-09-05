@@ -8,20 +8,28 @@
 		"value": 256
 	},
 	{
+		"code": "CH",
+		"value": 256
+	},
+	{
 		"code": "CN",
 		"value": 512
 	},
 	{
 		"code": "GB",
-		"value": 256
+		"value": 512
 	},
 	{
 		"code": "LV",
 		"value": 256
 	},
 	{
+		"code": "MN",
+		"value": 256
+	},
+	{
 		"code": "NL",
-		"value": 1024
+		"value": 512
 	},
 	{
 		"code": "PL",
@@ -33,7 +41,7 @@
 	},
 	{
 		"code": "SC",
-		"value": 1024
+		"value": 512
 	},
 	{
 		"code": "SE",

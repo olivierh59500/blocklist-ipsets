@@ -105,7 +105,7 @@
 	},
 	{
 		"code": "BR",
-		"value": 26723
+		"value": 26815
 	},
 	{
 		"code": "BS",
@@ -281,11 +281,11 @@
 	},
 	{
 		"code": "HK",
-		"value": 129
+		"value": 130
 	},
 	{
 		"code": "HN",
-		"value": 17
+		"value": 18
 	},
 	{
 		"code": "HR",
@@ -329,7 +329,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 848
+		"value": 849
 	},
 	{
 		"code": "JE",
@@ -349,7 +349,7 @@
 	},
 	{
 		"code": "KE",
-		"value": 1470
+		"value": 1469
 	},
 	{
 		"code": "KG",
@@ -529,7 +529,7 @@
 	},
 	{
 		"code": "PK",
-		"value": 1057
+		"value": 1056
 	},
 	{
 		"code": "PL",

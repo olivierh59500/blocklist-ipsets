@@ -29,7 +29,7 @@
 	},
 	{
 		"code": "AR",
-		"value": 1496
+		"value": 1497
 	},
 	{
 		"code": "AT",
@@ -57,7 +57,7 @@
 	},
 	{
 		"code": "BE",
-		"value": 364
+		"value": 363
 	},
 	{
 		"code": "BF",
@@ -173,7 +173,7 @@
 	},
 	{
 		"code": "DE",
-		"value": 4565
+		"value": 4564
 	},
 	{
 		"code": "DJ",
@@ -201,7 +201,7 @@
 	},
 	{
 		"code": "EG",
-		"value": 3092
+		"value": 3091
 	},
 	{
 		"code": "ER",
@@ -233,7 +233,7 @@
 	},
 	{
 		"code": "FR",
-		"value": 3162
+		"value": 3163
 	},
 	{
 		"code": "GA",
@@ -241,7 +241,7 @@
 	},
 	{
 		"code": "GB",
-		"value": 2430
+		"value": 2431
 	},
 	{
 		"code": "GD",
@@ -277,7 +277,7 @@
 	},
 	{
 		"code": "GR",
-		"value": 536
+		"value": 535
 	},
 	{
 		"code": "GT",
@@ -317,7 +317,7 @@
 	},
 	{
 		"code": "ID",
-		"value": 7764
+		"value": 7763
 	},
 	{
 		"code": "IE",
@@ -333,7 +333,7 @@
 	},
 	{
 		"code": "IN",
-		"value": 4328
+		"value": 4327
 	},
 	{
 		"code": "IQ",
@@ -349,7 +349,7 @@
 	},
 	{
 		"code": "IT",
-		"value": 1702
+		"value": 1704
 	},
 	{
 		"code": "JM",
@@ -361,7 +361,7 @@
 	},
 	{
 		"code": "JP",
-		"value": 1978
+		"value": 1979
 	},
 	{
 		"code": "KE",
@@ -469,7 +469,7 @@
 	},
 	{
 		"code": "MN",
-		"value": 66
+		"value": 67
 	},
 	{
 		"code": "MO",
@@ -497,7 +497,7 @@
 	},
 	{
 		"code": "MX",
-		"value": 1274
+		"value": 1275
 	},
 	{
 		"code": "MY",
@@ -525,7 +525,7 @@
 	},
 	{
 		"code": "NL",
-		"value": 1643
+		"value": 1642
 	},
 	{
 		"code": "NO",
@@ -569,7 +569,7 @@
 	},
 	{
 		"code": "PL",
-		"value": 1002
+		"value": 1003
 	},
 	{
 		"code": "PR",
@@ -597,7 +597,7 @@
 	},
 	{
 		"code": "RO",
-		"value": 2982
+		"value": 2981
 	},
 	{
 		"code": "RS",
@@ -689,7 +689,7 @@
 	},
 	{
 		"code": "TH",
-		"value": 11892
+		"value": 11893
 	},
 	{
 		"code": "TJ",
@@ -721,7 +721,7 @@
 	},
 	{
 		"code": "TW",
-		"value": 16086
+		"value": 16088
 	},
 	{
 		"code": "TZ",
@@ -729,7 +729,7 @@
 	},
 	{
 		"code": "UA",
-		"value": 1792
+		"value": 1790
 	},
 	{
 		"code": "UG",
@@ -737,7 +737,7 @@
 	},
 	{
 		"code": "US",
-		"value": 25049
+		"value": 25050
 	},
 	{
 		"code": "UY",
@@ -753,7 +753,7 @@
 	},
 	{
 		"code": "VE",
-		"value": 62638
+		"value": 62636
 	},
 	{
 		"code": "VG",
