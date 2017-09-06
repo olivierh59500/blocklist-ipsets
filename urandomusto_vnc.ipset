@@ -9,12 +9,12 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=vnc&out=txt&submit=go
-# Source File Date: Wed Sep  6 02:59:05 UTC 2017
+# Source File Date: Wed Sep  6 05:06:38 UTC 2017
 #
 # Category        : attacks
-# Version         : 2701
+# Version         : 2702
 #
-# This File Date  : Wed Sep  6 02:59:05 UTC 2017
+# This File Date  : Wed Sep  6 05:06:38 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
 # Entries         : 15 unique IPs
@@ -29,17 +29,17 @@
 # Processed with FireHOL's iprange
 #
 45.32.6.228
+61.37.189.115
 62.116.241.143
 62.116.241.144
-93.174.93.70
-95.85.29.97
 96.86.39.17
 96.234.33.32
-103.212.223.150
 180.250.100.237
-182.16.72.138
 184.149.48.33
+185.56.82.22
 185.72.178.49
 185.117.39.238
 185.118.48.62
 199.244.78.74
+205.209.174.115
+208.100.26.228
