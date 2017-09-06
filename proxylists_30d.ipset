@@ -9,12 +9,12 @@
 # Maintainer      : ProxyLists.net
 # Maintainer URL  : http://www.proxylists.net/
 # List source URL : http://www.proxylists.net/proxylists.xml
-# Source File Date: Wed Sep  6 04:50:35 UTC 2017
+# Source File Date: Wed Sep  6 06:30:35 UTC 2017
 #
 # Category        : anonymizers
-# Version         : 8601
+# Version         : 8602
 #
-# This File Date  : Wed Sep  6 05:36:11 UTC 2017
+# This File Date  : Wed Sep  6 06:56:10 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : 30 days 
 # Entries         : 6552 unique IPs
@@ -4116,7 +4116,6 @@
 177.130.0.32
 177.131.16.158
 177.131.20.53
-177.131.51.155
 177.131.121.65
 177.135.154.123
 177.135.212.114
@@ -5271,6 +5270,7 @@
 191.37.225.251
 191.98.183.138
 191.101.11.209
+191.101.153.6
 191.101.234.186
 191.102.87.242
 191.102.89.10
