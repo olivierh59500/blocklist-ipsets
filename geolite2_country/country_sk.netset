@@ -3,21 +3,21 @@
 #
 # ipv4 hash:net ipset
 #
-# Slovak Republic (SK) -- [MaxMind GeoLite2] 
+# Slovakia (SK) -- [MaxMind GeoLite2] 
 # (http://dev.maxmind.com/geoip/geoip2/geolite2/)
 #
 # Maintainer      : MaxMind.com
 # Maintainer URL  : http://www.maxmind.com/
 # List source URL : http://geolite.maxmind.com/download/geoip/database/GeoLite2-Country-CSV.zip
-# Source File Date: Thu Aug  3 00:45:10 UTC 2017
+# Source File Date: Wed Sep  6 23:23:44 UTC 2017
 #
 # Category        : geolocation
-# Version         : 24
+# Version         : 25
 #
-# This File Date  : Tue Aug  8 20:20:28 UTC 2017
+# This File Date  : Thu Sep  7 01:52:25 UTC 2017
 # Update Frequency: 7 days 
 # Aggregation     : none
-# Entries         : 417 subnets, 2721106 unique IPs
+# Entries         : 418 subnets, 2718803 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -90,7 +90,7 @@
 81.161.60.0/23
 81.162.80.0/20
 82.119.96.0/19
-82.119.224.0/20
+82.119.232.0/22
 83.168.128.0/18
 84.16.32.0/19
 84.47.0.0/17
@@ -198,6 +198,7 @@
 147.175.0.0/16
 147.213.0.0/16
 147.232.0.0/16
+149.7.225.0/24
 151.236.224.0/20
 155.254.192.0/24
 156.67.205.64/26
@@ -298,7 +299,6 @@
 185.152.112.0/22
 185.152.196.0/22
 185.155.48.0/22
-185.156.128.0/22
 185.160.108.0/22
 185.161.172.0/22
 185.162.76.0/22
@@ -318,10 +318,12 @@
 185.188.188.0/22
 185.188.236.0/22
 185.201.236.0/22
-185.204.16.0/23
 185.211.36.0/22
 185.213.144.0/22
 185.214.192.0/22
+185.216.20.0/22
+185.216.164.0/22
+185.218.28.0/22
 188.72.112.0/24
 188.112.64.0/18
 188.120.0.0/19
@@ -399,7 +401,6 @@
 195.79.24.208/28
 195.80.160.0/19
 195.91.0.0/17
-195.95.204.0/23
 195.98.0.0/19
 195.98.128.0/19
 195.146.0.0/19
@@ -424,6 +425,7 @@
 212.89.224.0/19
 212.197.0.0/17
 212.232.16.0/21
+213.41.57.50
 213.81.128.0/17
 213.108.120.0/21
 213.151.192.0/18
@@ -439,7 +441,6 @@
 217.73.16.0/20
 217.75.64.0/19
 217.77.242.7
-217.113.50.0/23
 217.118.96.0/20
 217.119.112.0/20
 217.144.16.0/20
