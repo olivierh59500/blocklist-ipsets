@@ -9,12 +9,12 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=vnc&out=txt&submit=go
-# Source File Date: Thu Sep  7 01:17:27 UTC 2017
+# Source File Date: Thu Sep  7 02:21:40 UTC 2017
 #
 # Category        : attacks
-# Version         : 2714
+# Version         : 2715
 #
-# This File Date  : Thu Sep  7 01:17:27 UTC 2017
+# This File Date  : Thu Sep  7 02:21:40 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
 # Entries         : 16 unique IPs
@@ -39,8 +39,8 @@
 101.78.231.200
 184.105.139.94
 184.149.48.33
+185.55.218.95
 185.56.82.30
 185.117.39.238
 190.24.235.246
-199.244.78.74
 205.209.174.115
