@@ -15,15 +15,15 @@
 # Maintainer      : Emerging Threats
 # Maintainer URL  : http://www.emergingthreats.net/
 # List source URL : http://rules.emergingthreats.net/fwrules/emerging-PIX-CC.rules
-# Source File Date: Tue Sep  5 04:30:02 UTC 2017
+# Source File Date: Wed Sep  6 04:30:02 UTC 2017
 #
 # Category        : reputation
-# Version         : 400
+# Version         : 401
 #
-# This File Date  : Wed Sep  6 00:16:03 UTC 2017
+# This File Date  : Thu Sep  7 00:36:03 UTC 2017
 # Update Frequency: 12 hours 
 # Aggregation     : none
-# Entries         : 563 unique IPs
+# Entries         : 565 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -553,6 +553,7 @@
 208.111.39.43
 208.111.39.131
 208.113.166.155
+208.117.34.123
 208.123.195.124
 208.146.35.105
 208.146.35.106
@@ -589,6 +590,7 @@
 216.18.232.151
 216.93.243.37
 216.152.78.166
+216.172.132.123
 217.64.48.162
 217.69.165.160
 217.146.78.110
