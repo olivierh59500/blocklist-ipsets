@@ -8,15 +8,15 @@
 # Maintainer      : ipip.net
 # Maintainer URL  : http://ipip.net
 # List source URL : https://cdn.ipip.net/17mon/country.zip
-# Source File Date: Fri Sep  1 08:08:18 UTC 2017
+# Source File Date: Mon Sep  4 06:03:12 UTC 2017
 #
 # Category        : geolocation
-# Version         : 4
+# Version         : 5
 #
-# This File Date  : Sat Sep  2 05:52:16 UTC 2017
+# This File Date  : Thu Sep  7 21:32:16 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 1441 subnets, 1791420 unique IPs
+# Entries         : 1450 subnets, 1802172 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -83,6 +83,9 @@
 31.169.49.255
 32.112.44.0/23
 32.114.22.0/23
+35.190.18.0/24
+35.190.34.0/24
+35.201.70.0/24
 37.130.196.0/22
 37.209.192.0/24
 37.209.194.0/24
@@ -533,6 +536,7 @@
 93.184.219.0/24
 93.184.220.0/23
 93.184.222.0/24
+93.189.59.0/24
 93.191.168.0/23
 94.31.29.0/24
 94.46.159.0/24
@@ -677,7 +681,9 @@
 152.195.34.0/24
 152.195.39.0/24
 152.195.51.0/24
+152.195.56.0/23
 152.195.60.0/24
+152.195.62.0/23
 152.195.132.0/23
 156.154.64.0/21
 156.154.100.0/22
@@ -729,6 +735,8 @@
 170.169.65.0/24
 170.210.180.0/24
 172.64.32.0/20
+172.65.16.0/20
+172.65.48.0/20
 172.81.99.0/24
 172.81.109.0/24
 172.102.8.0/21
@@ -1326,6 +1334,7 @@
 212.227.222.0/23
 213.52.131.0/24
 213.174.134.0/23
+213.183.34.0/23
 213.196.2.0/23
 213.227.160.0/24
 213.227.191.0/24

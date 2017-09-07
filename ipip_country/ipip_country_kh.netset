@@ -8,15 +8,15 @@
 # Maintainer      : ipip.net
 # Maintainer URL  : http://ipip.net
 # List source URL : https://cdn.ipip.net/17mon/country.zip
-# Source File Date: Fri Sep  1 08:08:18 UTC 2017
+# Source File Date: Mon Sep  4 06:03:12 UTC 2017
 #
 # Category        : geolocation
-# Version         : 3
+# Version         : 4
 #
-# This File Date  : Sat Sep  2 05:52:21 UTC 2017
+# This File Date  : Thu Sep  7 21:32:19 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 153 subnets, 336384 unique IPs
+# Entries         : 152 subnets, 335360 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -56,7 +56,6 @@
 103.6.8.0/22
 103.7.24.0/22
 103.7.144.0/24
-103.8.0.0/22
 103.9.188.0/22
 103.11.216.0/22
 103.12.160.0/22
