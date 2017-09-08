@@ -9,12 +9,12 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=mailer&out=txt&submit=go
-# Source File Date: Fri Sep  8 05:24:44 UTC 2017
+# Source File Date: Fri Sep  8 06:28:49 UTC 2017
 #
 # Category        : spam
-# Version         : 4515
+# Version         : 4516
 #
-# This File Date  : Fri Sep  8 05:24:44 UTC 2017
+# This File Date  : Fri Sep  8 06:28:49 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
 # Entries         : 451 unique IPs
@@ -138,7 +138,6 @@
 61.6.122.122
 61.93.114.34
 64.61.65.104
-65.255.143.202
 66.37.19.134
 66.37.19.152
 66.70.139.201
@@ -287,11 +286,11 @@
 129.33.240.159
 129.33.240.184
 131.255.74.71
-131.255.142.63
 137.59.85.20
 137.74.209.122
 138.59.146.158
 138.94.114.68
+139.162.113.212
 142.54.178.94
 144.48.108.173
 145.255.162.234
@@ -350,6 +349,7 @@
 177.70.126.1
 179.7.33.88
 179.36.100.19
+179.43.144.37
 180.94.84.217
 181.49.68.103
 181.51.58.198
