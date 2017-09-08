@@ -9,15 +9,15 @@
 # Maintainer      : BadIPs.com
 # Maintainer URL  : https://www.badips.com/
 # List source URL : https://www.badips.com/get/list/any/2?age=1d
-# Source File Date: Thu Sep  7 23:32:24 UTC 2017
+# Source File Date: Fri Sep  8 00:05:39 UTC 2017
 #
 # Category        : attacks
-# Version         : 29307
+# Version         : 29308
 #
-# This File Date  : Thu Sep  7 23:32:24 UTC 2017
+# This File Date  : Fri Sep  8 00:05:39 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 280 unique IPs
+# Entries         : 282 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -33,6 +33,7 @@
 31.168.172.136
 31.168.198.79
 31.184.194.114
+43.229.53.62
 45.116.232.117
 46.55.154.162
 46.165.223.217
@@ -44,6 +45,7 @@
 59.120.32.34
 60.161.145.243
 61.141.21.34
+61.177.248.202
 61.188.189.7
 62.102.148.67
 62.210.24.228
@@ -69,6 +71,7 @@
 81.171.75.188
 82.127.154.150
 83.169.208.218
+84.17.27.245
 85.185.244.101
 85.248.227.163
 85.248.227.164
@@ -123,6 +126,7 @@
 103.255.5.117
 104.238.222.88
 104.238.223.73
+108.89.35.42
 109.185.241.24
 111.73.45.16
 111.202.45.119
@@ -241,7 +245,6 @@
 193.90.12.89
 193.171.202.150
 193.230.245.6
-195.143.227.35
 195.154.39.188
 195.154.49.74
 195.154.50.178
@@ -250,7 +253,6 @@
 195.154.62.137
 195.154.102.187
 195.154.102.207
-195.175.61.54
 197.231.221.211
 198.20.87.98
 198.96.155.3
