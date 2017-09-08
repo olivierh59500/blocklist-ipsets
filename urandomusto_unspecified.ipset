@@ -9,12 +9,12 @@
 # Maintainer      : urandom.us.to
 # Maintainer URL  : http://urandom.us.to/
 # List source URL : http://urandom.us.to/report.php?ip=&info=&tag=unspecified&out=txt&submit=go
-# Source File Date: Fri Sep  8 12:53:23 UTC 2017
+# Source File Date: Fri Sep  8 13:57:39 UTC 2017
 #
 # Category        : attacks
-# Version         : 4612
+# Version         : 4613
 #
-# This File Date  : Fri Sep  8 12:53:23 UTC 2017
+# This File Date  : Fri Sep  8 13:57:39 UTC 2017
 # Update Frequency: 1 hour 
 # Aggregation     : none
 # Entries         : 167 unique IPs
@@ -41,7 +41,6 @@
 40.76.196.80
 40.83.8.192
 40.117.33.251
-42.7.26.91
 47.203.90.216
 47.203.94.12
 50.28.104.33
@@ -177,6 +176,7 @@
 208.77.101.138
 208.100.26.228
 209.66.128.18
+212.47.227.244
 212.47.242.152
 212.47.253.36
 212.83.147.42
