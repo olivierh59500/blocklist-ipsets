@@ -9,15 +9,15 @@
 # Maintainer      : BadIPs.com
 # Maintainer URL  : https://www.badips.com/
 # List source URL : https://www.badips.com/get/list/any/2?age=1d
-# Source File Date: Fri Sep  8 01:40:25 UTC 2017
+# Source File Date: Fri Sep  8 02:13:24 UTC 2017
 #
 # Category        : attacks
-# Version         : 29311
+# Version         : 29312
 #
-# This File Date  : Fri Sep  8 01:40:25 UTC 2017
+# This File Date  : Fri Sep  8 02:13:24 UTC 2017
 # Update Frequency: 30 mins 
 # Aggregation     : none
-# Entries         : 281 unique IPs
+# Entries         : 282 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -104,6 +104,7 @@
 103.207.36.76
 103.207.36.125
 103.207.36.221
+103.207.36.232
 103.207.36.246
 103.207.37.69
 103.207.37.75
@@ -222,6 +223,7 @@
 182.100.67.62
 182.100.67.76
 182.100.67.113
+183.129.160.229
 183.129.255.34
 185.34.33.2
 185.93.183.219
@@ -233,7 +235,6 @@
 189.52.165.134
 190.128.206.118
 190.214.22.242
-191.37.28.17
 192.42.116.16
 193.36.35.241
 193.90.12.87
