@@ -23,15 +23,15 @@
 # Maintainer      : IPDeny.com
 # Maintainer URL  : http://www.ipdeny.com/
 # List source URL : http://www.ipdeny.com/ipblocks/data/countries/all-zones.tar.gz
-# Source File Date: Thu Sep  7 12:07:34 UTC 2017
+# Source File Date: Fri Sep  8 12:07:36 UTC 2017
 #
 # Category        : geolocation
-# Version         : 442
+# Version         : 443
 #
-# This File Date  : Thu Sep  7 12:20:06 UTC 2017
+# This File Date  : Fri Sep  8 12:20:06 UTC 2017
 # Update Frequency: 1 day 
 # Aggregation     : none
-# Entries         : 11957 subnets, 1722593536 unique IPs
+# Entries         : 11946 subnets, 1722832896 unique IPs
 #
 # Full list analysis, including geolocation map, history,
 # retention policy, overlaps with other lists, etc.
@@ -524,12 +524,7 @@
 64.62.0.0/16
 64.63.0.0/18
 64.63.128.0/17
-64.64.0.0/15
-64.66.0.0/17
-64.66.128.0/18
-64.66.224.0/19
-64.67.0.0/16
-64.68.0.0/14
+64.64.0.0/13
 64.72.0.0/18
 64.72.64.0/19
 64.72.96.0/20
@@ -647,12 +642,8 @@
 66.35.64.0/18
 66.35.128.0/17
 66.36.0.0/14
-66.40.0.0/15
-66.42.128.0/17
-66.43.0.0/16
-66.44.0.0/14
-66.48.0.0/14
-66.54.0.0/15
+66.40.0.0/13
+66.48.0.0/13
 66.56.0.0/15
 66.58.0.0/16
 66.59.0.0/17
@@ -781,12 +772,7 @@
 67.24.0.0/13
 67.32.0.0/11
 67.64.0.0/10
-67.128.0.0/12
-67.144.0.0/14
-67.148.0.0/15
-67.151.0.0/16
-67.152.0.0/13
-67.160.0.0/11
+67.128.0.0/10
 67.192.0.0/12
 67.208.0.0/19
 67.208.32.0/20
@@ -3498,6 +3484,9 @@
 160.231.0.0/17
 160.231.192.0/18
 160.232.0.0/16
+160.238.42.0/24
+160.238.44.0/22
+160.238.102.0/23
 160.238.136.0/22
 160.253.0.0/16
 160.254.0.0/16
